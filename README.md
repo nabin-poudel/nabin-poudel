@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/redux-action-icon-svg-download-png-9632879.png?f=webp&w=128" height="40" alt="redux logo"  />
   <img width="12" />
+  <img src="https://imgs.search.brave.com/3AFicBZHRyMcRJYzV3GP3aKQvqEMko_D9MiMd8ksT94/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL3ByZW1p/dW0vcG5nLTI1Ni10/aHVtYi9leHByZXNz/LWpzLWljb24tc3Zn/LWRvd25sb2FkLXBu/Zy05MjAwNTgzLnBu/Zz9mPXdlYnAmdz0x/Mjg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-download-png-1174925.png?f=webp&w=256" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="40" alt="typeScript logo"  />
